@@ -1,6 +1,7 @@
 # ProgramAssignment3
 
 Did not consider files in inertial signals
+
 Function mergeWithOrder is created to join test and train file
 SequenceIds are used to preserve order merge changes the row order when joining with other data sets
 train and test are joined with rbind.data.frame
